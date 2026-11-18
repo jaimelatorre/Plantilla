@@ -13,6 +13,7 @@ public class PlantillaBateria {
     public static Scanner teclado = new Scanner(System.in);
 
     public static void main(String[] args) {
+        //COMENTARIO
         boolean salir = false;
         while (!salir) {
             int ejercicioSeleccionado = pintaMenu();
