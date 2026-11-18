@@ -14,6 +14,7 @@ public class PlantillaBateria {
 
     public static void main(String[] args) {
         //COMENTARIO
+        // OTRO COMENTARIO DESDE LA WEB
         boolean salir = false;
         while (!salir) {
             int ejercicioSeleccionado = pintaMenu();
